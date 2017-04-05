@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BdTexcelDataSet" targetNamespace="http://tempuri.org/BdTexcelDataSet.xsd" xmlns:mstns="http://tempuri.org/BdTexcelDataSet.xsd" xmlns="http://tempuri.org/BdTexcelDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=localhost\SQLEXPRESS;Initial Catalog=BdTexcel;Integrated Security=True" IsAppSettingsProperty="false" Modifier="Assembly" Name="info-324-1a-127\sqlexpress.BdTexcel.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblSETableAdapter" GeneratorDataComponentClassName="tblSETableAdapter" Name="tblSE" UserDataComponentName="tblSETableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="info-324-1a-127\sqlexpress.BdTexcel.dbo" DbObjectName="BdTexcel.dbo.tblSE" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nomSE, editionSE FROM dbo.tblSE</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nomSE" DataSetColumn="nomSE" />
+              <Mapping SourceColumn="editionSE" DataSetColumn="editionSE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BdTexcelDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="BdTexcelDataSet" msprop:Generator_UserDSName="BdTexcelDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblSE" msprop:Generator_TableClassName="tblSEDataTable" msprop:Generator_TableVarName="tabletblSE" msprop:Generator_TablePropName="tblSE" msprop:Generator_RowDeletingName="tblSERowDeleting" msprop:Generator_RowChangingName="tblSERowChanging" msprop:Generator_RowEvHandlerName="tblSERowChangeEventHandler" msprop:Generator_RowDeletedName="tblSERowDeleted" msprop:Generator_UserTableName="tblSE" msprop:Generator_RowChangedName="tblSERowChanged" msprop:Generator_RowEvArgName="tblSERowChangeEvent" msprop:Generator_RowClassName="tblSERow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nomSE" msprop:Generator_ColumnVarNameInTable="columnnomSE" msprop:Generator_ColumnPropNameInRow="nomSE" msprop:Generator_ColumnPropNameInTable="nomSEColumn" msprop:Generator_UserColumnName="nomSE">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="editionSE" msprop:Generator_ColumnVarNameInTable="columneditionSE" msprop:Generator_ColumnPropNameInRow="editionSE" msprop:Generator_ColumnPropNameInTable="editionSEColumn" msprop:Generator_UserColumnName="editionSE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

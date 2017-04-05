@@ -1,0 +1,220 @@
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+c:\users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\documents\visual studio 2015\Projects\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v2\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+I:\Texcel TabControl v3 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v4 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v6 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v7 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+I:\Texcel TabControl v8 Eddy\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v8 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Desktop\V9\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v10 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Desktop\V10\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v12 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v13 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmModifierPlateforme.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmModifierSE.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Desktop\Texcel TabControl v14 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\bin\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerJeu.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.creerSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmModifierPlateforme.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmModifierSE.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.frmTexcel.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel_TabControl.Properties.Resources.resources
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl v15 Eddy et Franck\Texcel TabControl\obj\Debug\Texcel TabControl.csproj.GenerateResource.Cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl Eddy et Franck  V Entity\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl Eddy et Franck  V Entity\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\Texcel TabControl Eddy et Franck  V Entity\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
+C:\Users\utilisateur\Desktop\Texcel_Entity\Texcel_Entity\Texcel TabControl Eddy et Franck Entity V.2\Texcel TabControl\bin\Debug\Texcel TabControl.exe.config
+C:\Users\utilisateur\Desktop\Texcel_Entity\Texcel_Entity\Texcel TabControl Eddy et Franck Entity V.2\Texcel TabControl\obj\Debug\Texcel TabControl.exe
+C:\Users\utilisateur\Desktop\Texcel_Entity\Texcel_Entity\Texcel TabControl Eddy et Franck Entity V.2\Texcel TabControl\obj\Debug\Texcel TabControl.pdb
