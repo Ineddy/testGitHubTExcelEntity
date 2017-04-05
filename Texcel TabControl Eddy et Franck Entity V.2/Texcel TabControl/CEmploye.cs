@@ -26,6 +26,10 @@ namespace Texcel_TabControl
             this.idVille = idVille;
         }
 
+        /*
+            Classe employe  
+        */
+
         //Constructeur utilisé pour généré une liste des employés d'une équipe
         public CEmploye(int idEmploye, string nomEmploye, string prenomEmploye)
         {
