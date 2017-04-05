@@ -29,7 +29,8 @@ namespace Texcel_TabControl
         /*
             Classe employe
             Classe employe2 
-            Classe employe3   
+            Classe employe3
+            Classe employe4   
         */
 
         //Constructeur utilisé pour généré une liste des employés d'une équipe
