@@ -15,6 +15,8 @@ namespace Texcel_TabControl
         List<CEmploye> listeEmployeParEquipe;
         CControlleurEquipe monControlleurEquipe = new CControlleurEquipe();
 
+
+        // Test de commentaires pour le test github
         public CEquipe() { }
         public CEquipe(int idEquipe, string nom, int idChefEquipe, int idDirecteur)
         {
